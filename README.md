@@ -229,3 +229,8 @@ the upstream repo set appropriately. `git remote -v` will verbosely list the
 remotes that git knows about, and can help debugging. And in general, proper git
 hygiene (regular commits with good messages, clearly named branches, etc.) will
 pay off, just as it does with regular development.
+
+### Lecture notes
+- https://youtu.be/G2Kg83S-byY
+- Also ran into some db things to share - scalability of relational databases is an ongoing research/market problem, and if you want to see some of the latest: https://www.citusdata.com/blog/2017/11/16/citus-cloud-2-postgres-and-scale-without-compromise/
+- I also ran across an alternate Postgres host w/free tier, in case you want something independent of Heroku: https://www.elephantsql.com
